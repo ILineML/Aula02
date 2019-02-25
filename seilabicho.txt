@@ -1,1 +1,3 @@
-Me fala como programar nisso
+Me fala como programar nisso;
+
+int num1;
